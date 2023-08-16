@@ -1,5 +1,4 @@
 ### Hi there 👋
-![1号英雄](https://github.com/MaxwellDemonLin/MaxwellDemonLin/assets/83280254/fa1303f2-085d-4c9b-b572-e4de4e96c13e)
 
 <!--
 **MaxwellDemonLin/MaxwellDemonLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
